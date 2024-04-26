@@ -1,0 +1,10 @@
+16:53:05 **** Incremental Build of configuration Debug for project ILI9486 Waveshare SPI STM32F446 ****
+make -j8 all 
+arm-none-eabi-size  ILI9486\ Waveshare\ SPI\ STM32F446.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32504	     44	   1700	  34248	   85c8	ILI9486 Waveshare SPI STM32F446.elf
+Finished building: default.size.stdout
+ 
+
+16:53:05 Build Finished. 0 errors, 0 warnings. (took 374ms)
+

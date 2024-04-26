@@ -1,0 +1,10 @@
+17:29:29 **** Incremental Build of configuration Debug for project ili9486-stm32h7a3zit6qu ****
+make -j8 all 
+arm-none-eabi-size  ili9486-stm32h7a3zit6qu.elf 
+   text	   data	    bss	    dec	    hex	filename
+  44800	     40	   1904	  46744	   b698	ili9486-stm32h7a3zit6qu.elf
+Finished building: default.size.stdout
+ 
+
+17:29:29 Build Finished. 0 errors, 0 warnings. (took 360ms)
+
