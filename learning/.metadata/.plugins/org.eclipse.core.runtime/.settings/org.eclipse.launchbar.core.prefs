@@ -1,11 +1,14 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blinking_led Debug,org.eclipse.launchbar.core.descriptorType.default\:ILI9486 Waveshare SPI STM32F446 Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9486 Waveshare SPI STM32F446 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ili9486-stm32h7a3zit6qu Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9486 Waveshare SPI STM32F446 Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blinking_led Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9486 Waveshare SPI STM32F446 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ili9486-stm32h7a3zit6qu Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:cubeide-sd-card Debug
 eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9486\ Waveshare\ SPI\ STM32F446\ Debug\ (1)/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9486\ Waveshare\ SPI\ STM32F446\ Debug\ (1)/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9486\ Waveshare\ SPI\ STM32F446\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blinking_led\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blinking_led\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:cubeide-sd-card\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ili9486-stm32h7a3zit6qu\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ili9486-stm32h7a3zit6qu\ Debug/activeLaunchTarget=null\:---
 org.eclipse.launchbar.core.descriptorType.default\:ILI9486\ Waveshare\ SPI\ STM32F446\ Debug\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

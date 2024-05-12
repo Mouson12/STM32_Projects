@@ -9,6 +9,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\szymo\Downloads\STM32F4_SD-master\STM32F4_SD-master\STM32F4_SD"/>
+			<item value="C:\Users\szymo\Downloads\SDCardTest\SDCardTest"/>
 			<item value="C:\Users\szymo\Documents\STM32_Projects\learning\ILI9486-Waveshare-SPI-STM32F446-STM32-TFT-main\ILI9486-Waveshare-SPI-STM32F446-STM32-TFT-main\ILI9486 Waveshare SPI STM32F446"/>
 		</list>
 	</section>
